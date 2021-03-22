@@ -9,7 +9,7 @@ const Vision = () => {
             <img src={Value} alt='value-icon' className='icons'/>
 
                 <h3>OUR CORE VALUES</h3>
-                <ul >
+                <ul style={{listStyleType:'square'}}>
                     <li>Integrity</li>
                     <li>Service</li>
                     <li>Respect </li>

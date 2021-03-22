@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd23fa8d.chunk.css",
-    "main.js": "/static/js/main.88bedd51.chunk.js",
-    "main.js.map": "/static/js/main.88bedd51.chunk.js.map",
+    "main.css": "/static/css/main.0c5d70d1.chunk.css",
+    "main.js": "/static/js/main.c40e10e9.chunk.js",
+    "main.js.map": "/static/js/main.c40e10e9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9dd6d179.js",
     "runtime-main.js.map": "/static/js/runtime-main.9dd6d179.js.map",
-    "static/js/2.e8f57718.chunk.js": "/static/js/2.e8f57718.chunk.js",
-    "static/js/2.e8f57718.chunk.js.map": "/static/js/2.e8f57718.chunk.js.map",
+    "static/js/2.5f060f34.chunk.js": "/static/js/2.5f060f34.chunk.js",
+    "static/js/2.5f060f34.chunk.js.map": "/static/js/2.5f060f34.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.bd23fa8d.chunk.css.map": "/static/css/main.bd23fa8d.chunk.css.map",
-    "static/js/2.e8f57718.chunk.js.LICENSE.txt": "/static/js/2.e8f57718.chunk.js.LICENSE.txt",
+    "static/css/main.0c5d70d1.chunk.css.map": "/static/css/main.0c5d70d1.chunk.css.map",
+    "static/js/2.5f060f34.chunk.js.LICENSE.txt": "/static/js/2.5f060f34.chunk.js.LICENSE.txt",
     "static/media/Dami.60c51cdf.jpg": "/static/media/Dami.60c51cdf.jpg",
     "static/media/Taiwo.147b4257.jpg": "/static/media/Taiwo.147b4257.jpg",
     "static/media/Tobi.19a2647a.jpg": "/static/media/Tobi.19a2647a.jpg",
     "static/media/daniel.7cface3e.jpg": "/static/media/daniel.7cface3e.jpg",
     "static/media/eye.c5224f21.png": "/static/media/eye.c5224f21.png",
     "static/media/logo.98d0d8b2.png": "/static/media/logo.98d0d8b2.png",
-    "static/media/pexels-canva-studio-3153201.cca4ac83.jpg": "/static/media/pexels-canva-studio-3153201.cca4ac83.jpg",
     "static/media/presentation.af495d4a.jpg": "/static/media/presentation.af495d4a.jpg",
     "static/media/App.scss": "/static/media/public-speaking-3926344_1920.f8ee57fc.jpg",
     "static/media/sonia.5327b35f.jpg": "/static/media/sonia.5327b35f.jpg",
     "static/media/speech.7d386952.png": "/static/media/speech.7d386952.png",
-    "static/media/success.04b74d0c.jpg": "/static/media/success.04b74d0c.jpg"
+    "static/media/success.04b74d0c.jpg": "/static/media/success.04b74d0c.jpg",
+    "static/media/woman.f4c34150.jpg": "/static/media/woman.f4c34150.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9dd6d179.js",
-    "static/js/2.e8f57718.chunk.js",
-    "static/css/main.bd23fa8d.chunk.css",
-    "static/js/main.88bedd51.chunk.js"
+    "static/js/2.5f060f34.chunk.js",
+    "static/css/main.0c5d70d1.chunk.css",
+    "static/js/main.c40e10e9.chunk.js"
   ]
 }

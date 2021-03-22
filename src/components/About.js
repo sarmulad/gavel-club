@@ -1,6 +1,6 @@
 import React, {useEffect, useRef} from 'react'
-import AboutImage from '../images/pexels-canva-studio-3153201.jpg'
-import {gsap, Power3,Power2, TimelineLite} from 'gsap'
+import AboutImage from '../images/presentation.jpg'
+import {gsap, Power3,Power2} from 'gsap'
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 // import Img from '../images/1.jpg'
@@ -31,7 +31,7 @@ const About = () => {
           // start:'20px 80%',
           //  scrub:true,
           // toggleActions: 'restart pause reverse pause'
-      }, x:-700, duration:2, opacity:0,  ease:Power3.easeOut }, 'START')
+      }, x:-400, duration:2, opacity:0,  ease:Power3.easeOut }, 'START')
       
         gsap.from(text, {scrollTrigger:{
           trigger:text,

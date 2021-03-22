@@ -1,5 +1,5 @@
 import React, {useEffect, useRef} from 'react'
-import MissionImage from '../images/presentation.jpg'
+import MissionImage from '../images/woman.jpg'
 import {gsap, Power3,Power2, } from 'gsap'
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
@@ -31,7 +31,7 @@ const Mission = () => {
           // start:'20px 80%',
           //  scrub:true,
           // toggleActions: 'restart pause reverse pause'
-      }, x:700, duration:2, opacity:0,  ease:Power3.easeOut }, 'START')
+      }, x:400, duration:1.5, opacity:0,  ease:Power3.easeOut }, 'START')
       
         gsap.from(text, {scrollTrigger:{
           trigger:text,

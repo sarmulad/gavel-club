@@ -1,6 +1,5 @@
-import React,{useEffect, useRef} from 'react'
+import React from 'react'
 import '../App.scss';
-import {Link} from 'react-router-dom'
 import ArrowRightAltIcon from '@material-ui/icons/ArrowRightAlt';
 // import {TweenMax, TimelineLite, Power3,} from 'gsap'
 
@@ -90,8 +89,8 @@ const Hero = () => {
         <header className='hero'>
             <section className='hero-header-text'>
                 <h1 className='hero-h' style={{fontWeight:'700',fontSize:'60px'}}>Are you an <span style={{color:'rgb(255, 111, 255)',}}>OAU student</span> ? </h1>
-                <p style={{marginBottom:'5px'}}>Do you want to develop the necessary skills needed for you to deliver an excellent speech? </p>
-                <p style={{fontSize:'12px'}}>Gavel Club is the place to be !</p>
+                <p style={{marginBottom:'5px',fontSize:'20px'}}>Do you want to develop the necessary skills needed for you to deliver an excellent speech? </p>
+                <p style={{fontSize:'13px'}}>Gavel Club is the place to be !</p>
                
                <a href='#about'> <button className='btn'><div style={{display:'flex', alignItems:'center'}}>Look no further <ArrowRightAltIcon/></div></button></a>
             </section>

@@ -1,5 +1,4 @@
 import React from 'react'
-import FacebookIcon from '@material-ui/icons/Facebook';
 import TwitterIcon from '@material-ui/icons/Twitter';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import LinkedinIcon from '@material-ui/icons/LinkedIn'
@@ -18,7 +17,7 @@ const Contact = () => {
             <img src={Speech} alt='eye-icon' className='icons'/>
 
             <h3>Benefit Of Joining the Club</h3>
-            <ul>
+            <ul style={{listStyleType:'square'}}>
                 <li>Impecable public speaking skill</li>
                 <li>International exposure to Toastmaster International</li>
                 <li>Innate leadership & people management skills </li>
@@ -47,11 +46,10 @@ const Contact = () => {
             
             <div className='social'>
                
-            <a href='https://www.facebook.com/GavelClubOAU' target='_blank'><FacebookIcon/></a>
-            <a href='https://www.twitter.com/GavelClubOAU' target='_blank'><TwitterIcon/></a>
-            <a href='https://www.instagram.com/GavelClubOAU' target='_blank'><InstagramIcon/></a>
-            <a href='https://www.linkedin.com/GavelClubOAU' target='_blank'><LinkedinIcon/></a>
-            <a href=' https://wa.me/+2348130731954?text=Hi. i will love to know about the gavel club' target='_blank'><WhatsAppIcon/></a>
+            <a href='https://www.twitter.com/GavelClubOAU' target='_blank' rel="noreferrer"><TwitterIcon/></a>
+            <a href='https://www.instagram.com/GavelClubOAU' target='_blank' rel="noreferrer"><InstagramIcon/></a>
+            <a href='https://www.linkedin.com/company/gavel-club-oau/' target='_blank' rel="noreferrer"><LinkedinIcon/></a>
+            <a href=' https://wa.me/+2348130731954?text=Hi. i will love to know about the gavel club' target='_blank' rel="noreferrer"><WhatsAppIcon/></a>
             </div>
         </div>
 
