@@ -1,5 +1,5 @@
 import React, {useEffect, useRef} from 'react'
-import AboutImage from '../images/presentation.jpg'
+import AboutImage from '../images/group.jpg'
 import {gsap, Power3,Power2} from 'gsap'
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
